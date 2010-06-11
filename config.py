@@ -19,9 +19,9 @@ BLOG = {
     "author": "Bill Katz",
     # This must be the email address of a registered administrator for the 
     # application due to mail api restrictions.
-    "email": "you@foo.com",
-    "description": "A RESTful Blog/Homepage for Google AppEngine.",
-    "root_url": "http://bloog.billkatz.com",
+    "email": "wadhwa.pankaj@gmail.com",
+    "description": "A RESTful Blog/Homepage for Google AppEngine QSS Technologies.",
+    "root_url": "http://qssblogs.appspot.com",
     "master_atom_url": "/feeds/atom.xml",
     # By default, visitors can comment on article for this many days.
     # This can be overridden by setting article.allow_comments
